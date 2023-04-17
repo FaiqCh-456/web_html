@@ -1,0 +1,47 @@
+h1{
+
+    border:10px solid rgb(red, green, blue);
+
+}
+.master_div{
+border: 5px solid rgb(255, 255, 255);
+width: 100vw;
+height: 700px;
+display: inline;
+
+
+}
+.div1{
+border: 5px solid green;
+width: 100vw;
+height: 100vh;
+margin: 100px 100px 100px 100px;
+display: inline;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.div2{
+
+    border: 5px solid blue;
+    width: 700vw;
+    height: 100vh;
+    margin-left: 100px;
+    display: inline;
+}
+.div3{
+
+border: 5px solid rgba(247, 0, 255, 0.801);
+width: 100vw;
+height: 700vh;
+margin-left: 40px;
+margin-top: 100px;
+display: inline;
+}
+#divid3{
+    border: 10px solid rgba(94, 255, 0, 0.884);
+width: 100vw;
+height: 700vh;
+
+
+
+}
